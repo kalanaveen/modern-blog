@@ -1,3 +1,26 @@
+Build a modern blog application with help of modern technologies like Reactjs,Nextjs.
+In this build created a home page and post detail page.All post fetched from GraphCMS with help of Graphql query.
+
+![image](https://user-images.githubusercontent.com/34640475/146638437-5c984674-3169-4e15-af2f-da3bcfa65240.png)
+
+Key Features
+    
+    Read a post.
+    Comment on post.
+    Post by category.
+    Time stamp show when posted.
+    Fully responsive with help of tailwind css.
+    
+    
+    
+Key Technologies
+
+    React.js
+    Next.js
+    Tailwind css
+    Graphql
+    Graphcms
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
